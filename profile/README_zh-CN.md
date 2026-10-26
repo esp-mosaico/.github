@@ -87,6 +87,7 @@
 | --- | --- |
 | [**ESP-Mosaico Vibe**](https://github.com/esp-mosaico/esp-mosaico-vibe) | **和 Agent 一起做应用。** 提供工作区、工程创建入口、Agent 指引，以及预览、构建和设备操作流程。 |
 | [**ESP-Mosaico Claw**](https://github.com/esp-mosaico/esp-mosaico-claw) | **定制设备 Agent 与出厂固件。** 基于 ESP-Claw，集成对话、记忆、技能、Lua 扩展、MCP 与触屏应用。 |
+| [**ESP-Mosaico Matter**](https://github.com/esp-mosaico/esp-mosaico-matter) | **连接和控制智能家居。** 提供 Matter 中枢与桥接应用，支持设备配网、控制、自动化、网页与设备端界面，并通过 ESP-Claw 和 MCP/Skills 集成 AI Agent。 |
 | [**ESP-Mosaico BSP**](https://github.com/esp-mosaico/esp-mosaico-bsp) | **接入硬件，从示例构建作品。** 提供板级接口、模块管理、外设驱动和多机通信组件。 |
 | [**ESP-Mosaico Utils**](https://github.com/esp-mosaico/esp-mosaico-utils) | **完善开发、调试与维护体验。** 提供 ESP-Iris、CLI、Web 工作台、Vibe Mode 固件及共享应用资源。 |
 

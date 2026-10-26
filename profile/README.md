@@ -87,6 +87,7 @@ From the Agent on your board to the workspace on your computer, these projects c
 | --- | --- |
 | [**ESP-Mosaico Vibe**](https://github.com/esp-mosaico/esp-mosaico-vibe) | **Build apps with an Agent.** A workspace with project creation, Agent guidance, and workflows for previewing, building, and working with devices. |
 | [**ESP-Mosaico Claw**](https://github.com/esp-mosaico/esp-mosaico-claw) | **Customize the device Agent and factory firmware.** Built on ESP-Claw, with conversations, memory, skills, Lua extensions, MCP, and touchscreen apps. |
+| [**ESP-Mosaico Matter**](https://github.com/esp-mosaico/esp-mosaico-matter) | **Connect and control your smart home.** Matter hub and bridge applications with device commissioning, control, automation, web and on-device UIs, and AI agent integration through ESP-Claw and MCP/Skills. |
 | [**ESP-Mosaico BSP**](https://github.com/esp-mosaico/esp-mosaico-bsp) | **Connect hardware and build from examples.** Board interfaces, module management, peripheral drivers, and multi-device communication components. |
 | [**ESP-Mosaico Utils**](https://github.com/esp-mosaico/esp-mosaico-utils) | **Improve development, debugging, and maintenance.** ESP-Iris, the CLI, Web Workbench, Vibe Mode firmware, and shared application resources. |
 
